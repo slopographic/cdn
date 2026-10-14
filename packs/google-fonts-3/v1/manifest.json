@@ -1,0 +1,223 @@
+{
+  "name": "google-fonts-3",
+  "version": "v1",
+  "licence": "OFL-1.1",
+  "source": "SOURCE.md",
+  "files": [
+    {
+      "path": "inconsolata/Inconsolata-wdth-wght.ttf",
+      "bytes": 347180,
+      "sha256": "23ded25b447074d00659392bf9b1123d89df55cb07b0ad9bfef3366d199b5fcb"
+    },
+    {
+      "path": "inter/Inter-opsz-wght.ttf",
+      "bytes": 876576,
+      "sha256": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031"
+    },
+    {
+      "path": "jetbrainsmono/JetBrainsMono-wght.ttf",
+      "bytes": 187208,
+      "sha256": "48715a42ec242c21e9f02692891e147d022299a52e48d5e413e1a942193ffeda"
+    },
+    {
+      "path": "josefinsans/JosefinSans-wght.ttf",
+      "bytes": 118588,
+      "sha256": "9255abdb5f393bc51e101abbd07a716a977fd3e15472b1b84b260f426a342bfd"
+    },
+    {
+      "path": "kanit/Kanit-Black.ttf",
+      "bytes": 176856,
+      "sha256": "5d290c2cc9926764bd782aa6abc47a8f55bd64641d0afb56e115ee522698ee7e"
+    },
+    {
+      "path": "kanit/Kanit-Bold.ttf",
+      "bytes": 176136,
+      "sha256": "5dec5b080dab13de9d2295437c0ff3ec05c9e75587dfc31358c005eb4efa5e70"
+    },
+    {
+      "path": "kanit/Kanit-ExtraBold.ttf",
+      "bytes": 177836,
+      "sha256": "70082870d1f5bb6ae9faa708572b2c36de3c076caae187edae753f709d0de984"
+    },
+    {
+      "path": "kanit/Kanit-ExtraLight.ttf",
+      "bytes": 164140,
+      "sha256": "f90e440b41170f2f75f2930d3273dbe9ed7a5ac49f7dbdc375ba5f8d2e224745"
+    },
+    {
+      "path": "kanit/Kanit-Light.ttf",
+      "bytes": 171384,
+      "sha256": "7c04b0be6011782fcc4c032f4033ef6f6ba1fef99b135ba1ee68b800c53017ec"
+    },
+    {
+      "path": "kanit/Kanit-Medium.ttf",
+      "bytes": 174628,
+      "sha256": "50a237034244026a7c63fe55e24e0b4298babe363cde043e032075b764c545a2"
+    },
+    {
+      "path": "kanit/Kanit-Regular.ttf",
+      "bytes": 173148,
+      "sha256": "27170c049660b2f962d3ed28441fd20f4c743503ca031fec9c2b4542d6c52736"
+    },
+    {
+      "path": "kanit/Kanit-SemiBold.ttf",
+      "bytes": 174796,
+      "sha256": "67e64baf1a7e6e076435518ff0e6bf25c4d74b98143cd1a2688db906c0abce11"
+    },
+    {
+      "path": "kanit/Kanit-Thin.ttf",
+      "bytes": 160460,
+      "sha256": "740d8a4d92ddae394d13a3caea845c048b6d62b58f9fb92ed4ac0118ed38c083"
+    },
+    {
+      "path": "karla/Karla-wght.ttf",
+      "bytes": 94016,
+      "sha256": "ed3ca4cd9bdd899c543927c30bf5ff50706b24b3f2b7328e64b25f7d2a9d23dc"
+    },
+    {
+      "path": "lato/Lato-Black.ttf",
+      "bytes": 664748,
+      "sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337"
+    },
+    {
+      "path": "lato/Lato-Bold.ttf",
+      "bytes": 656544,
+      "sha256": "8a0aace75d33794eece4b28187bfc1df0bbd2888b5d8a56e01788c8d65d16be1"
+    },
+    {
+      "path": "lato/Lato-ExtraBold.ttf",
+      "bytes": 613920,
+      "sha256": "61018de62bdaf90d4ac80b1d53c5c130756c8e9219aea3d2773fc9bd5869af97"
+    },
+    {
+      "path": "lato/Lato-ExtraLight.ttf",
+      "bytes": 626624,
+      "sha256": "989989b481db5df0827d90c51fd08d024fe7bc4e367046e2584a0d3b0487936d"
+    },
+    {
+      "path": "lato/Lato-Light.ttf",
+      "bytes": 643884,
+      "sha256": "cf2a774503baf418d584f49967bd160e1e03f087c13b25602f28024ec7788f08"
+    },
+    {
+      "path": "lato/Lato-Medium.ttf",
+      "bytes": 636396,
+      "sha256": "d3ac182a6833e005745dd75679fbad081c0b12535df4e93ad8ed57817a31a338"
+    },
+    {
+      "path": "lato/Lato-Regular.ttf",
+      "bytes": 656568,
+      "sha256": "d636e4683231f931eda222d588e944d082bfd3bdba02f928bee461c0f185b251"
+    },
+    {
+      "path": "lato/Lato-SemiBold.ttf",
+      "bytes": 668548,
+      "sha256": "71b8b7decbe75a881ed267be539d402bd1e9420b799658aada4e0d1bd5af803c"
+    },
+    {
+      "path": "lato/Lato-Thin.ttf",
+      "bytes": 584056,
+      "sha256": "663c55bfe9a38270fff44da273bf4d792eafc3e7e1201f62c3064cad80c5d5e7"
+    },
+    {
+      "path": "lexend/Lexend-wght.ttf",
+      "bytes": 175756,
+      "sha256": "3add53e641fbc81da64da4bb254285e2831b52b029527bc0714e2b9610832ee6"
+    },
+    {
+      "path": "librebaskerville/LibreBaskerville-wght.ttf",
+      "bytes": 171900,
+      "sha256": "05a95421961341c5b2556285e8415df9db27dab4f4abe22b446b3c6a8b916c5d"
+    },
+    {
+      "path": "lobster/Lobster-Regular.ttf",
+      "bytes": 406076,
+      "sha256": "d6568e697fd50cedc0be04d8aae4127fe95add607e7bff954ca88604be80c205"
+    },
+    {
+      "path": "lobstertwo/LobsterTwo-Bold.ttf",
+      "bytes": 241104,
+      "sha256": "5255b383fc8aa432e4e7e5f8005210477c0983370adc6ad6205c9bd2cd1ceb76"
+    },
+    {
+      "path": "lobstertwo/LobsterTwo-Regular.ttf",
+      "bytes": 254332,
+      "sha256": "be3d8ce18188bc559de37e4355f5f902b4960a7b65a99efb78c03bb65bb782e6"
+    },
+    {
+      "path": "lora/Lora-wght.ttf",
+      "bytes": 212196,
+      "sha256": "822a6621ccbe8d97d20ac88c1c41f5615c9c2c202eaa75f272cd452aac6475a7"
+    },
+    {
+      "path": "manrope/Manrope-wght.ttf",
+      "bytes": 164700,
+      "sha256": "3ae11c49db0455a3cc33e37d380f20fdb8c7f8b41dc07625c177e3d87a9d6ae6"
+    },
+    {
+      "path": "merriweather/Merriweather-opsz-wdth-wght.ttf",
+      "bytes": 4628080,
+      "sha256": "d0ed0e359e396af7ad05e73dffd11a3a4c326ea0d0283c56bd9361cb2cc86a96"
+    },
+    {
+      "path": "montserrat/Montserrat-wght.ttf",
+      "bytes": 744936,
+      "sha256": "0f7b311b2f3279e4eef9b2f968bcdbab6e28f4daeb1f049f4f278a902bcd82f7"
+    },
+    {
+      "path": "mukta/Mukta-Bold.ttf",
+      "bytes": 418416,
+      "sha256": "7d22891cd57507b04af95a67ffaf59b7073b3595a27d1cfbbcefb418de820a12"
+    },
+    {
+      "path": "mukta/Mukta-ExtraBold.ttf",
+      "bytes": 423168,
+      "sha256": "328eeebffe06fac60d60b46fe60c3995a908d2347e9c285f1eef1a0c9d73e004"
+    },
+    {
+      "path": "mukta/Mukta-ExtraLight.ttf",
+      "bytes": 410644,
+      "sha256": "ff3260e6fd667797b0beb80430b0da318ccdac73c0f90fe828c2dd5a093265a1"
+    },
+    {
+      "path": "mukta/Mukta-Light.ttf",
+      "bytes": 405188,
+      "sha256": "161f2f22d33a1c75d9fb37d74ea99e8dbbe119cd5c102c83146fb032a552e8f2"
+    },
+    {
+      "path": "mukta/Mukta-Medium.ttf",
+      "bytes": 419736,
+      "sha256": "4db18bd8f19582607e8a6af0c4bf158b4b3378b426e42ad39d444d216c70074c"
+    },
+    {
+      "path": "mukta/Mukta-Regular.ttf",
+      "bytes": 432248,
+      "sha256": "2958e4af564507df2a856164df6f9978dacb03f999a4f34a0c269dc8a4de9688"
+    },
+    {
+      "path": "mukta/Mukta-SemiBold.ttf",
+      "bytes": 411160,
+      "sha256": "f437fb098f8f29acb8628617cb2682f0780ef22fa8b0443de1f66090c36e510a"
+    },
+    {
+      "path": "notoserif/NotoSerif-wdth-wght.ttf",
+      "bytes": 1887192,
+      "sha256": "4d8e6761424656867019081a1a01336f3cb086982682698714054fc33f782713"
+    },
+    {
+      "path": "nunito/Nunito-wght.ttf",
+      "bytes": 276932,
+      "sha256": "bb55a5ca5c2042335b3991af27c4d0705d0ef41cac6164ac737fd8f2a1e85207"
+    },
+    {
+      "path": "nunitosans/NunitoSans-YTLC-opsz-wdth-wght.ttf",
+      "bytes": 571240,
+      "sha256": "f934d7142fb4784bf828da485b7dcbd90c0c80d514e9d49a5da0ed3a1ae2491d"
+    },
+    {
+      "path": "opensans/OpenSans-wdth-wght.ttf",
+      "bytes": 532636,
+      "sha256": "36643644f318a812aab2d2ed3bb98f8cf0872527f835fe9398d95fe6b9adb878"
+    }
+  ]
+}

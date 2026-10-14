@@ -1,0 +1,168 @@
+{
+  "name": "google-fonts-4",
+  "version": "v1",
+  "licence": "OFL-1.1",
+  "source": "SOURCE.md",
+  "files": [
+    {
+      "path": "oswald/Oswald-wght.ttf",
+      "bytes": 172088,
+      "sha256": "5b38c246e255a12f5712d640d56bcced0472466fc68983d2d0410ec0457c2817"
+    },
+    {
+      "path": "outfit/Outfit-wght.ttf",
+      "bytes": 110884,
+      "sha256": "fc7287273e66929776e2ba54f144fe699080bec29f61bf649d70d871468aeade"
+    },
+    {
+      "path": "oxygen/Oxygen-Bold.ttf",
+      "bytes": 48708,
+      "sha256": "d86d9a11ad1aa242dbf50d2a2a3295baab2a11349dcf6db5bd28e36036b7f6c0"
+    },
+    {
+      "path": "oxygen/Oxygen-Light.ttf",
+      "bytes": 43788,
+      "sha256": "014b444c3073bcf433577cca0aaa177b35ab1b9a46ada562710006cb35128409"
+    },
+    {
+      "path": "oxygen/Oxygen-Regular.ttf",
+      "bytes": 47988,
+      "sha256": "a328b8fa366bdd94f507ad02e2721ac49cb4257a9ef1e49560b230079386010e"
+    },
+    {
+      "path": "pacifico/Pacifico-Regular.ttf",
+      "bytes": 329380,
+      "sha256": "5b6c0d5334a7bf77dea52b975c5a0c408878c0f7115ed5b6fb151f634b7bf701"
+    },
+    {
+      "path": "playfairdisplay/PlayfairDisplay-wght.ttf",
+      "bytes": 300724,
+      "sha256": "c40f2293766a503bc70cce9e512ef844a4ccb7cbcde792fe2ea31d191917d8d6"
+    },
+    {
+      "path": "plusjakartasans/PlusJakartaSans-wght.ttf",
+      "bytes": 176288,
+      "sha256": "89b3fb38aa0d275d7a731d0d817a4f1622b316b4d7fbdedcf02ee9099ff68bc8"
+    },
+    {
+      "path": "poppins/Poppins-Black.ttf",
+      "bytes": 153440,
+      "sha256": "d82aaaf98a9283f9a8edd24e51173337d8eaf09e25cd3d98831f8ec8461748a1"
+    },
+    {
+      "path": "poppins/Poppins-Bold.ttf",
+      "bytes": 155996,
+      "sha256": "983676516167748b74de6f4771fb384c664fd913acb8b471122ecacf5da5ea6c"
+    },
+    {
+      "path": "poppins/Poppins-ExtraBold.ttf",
+      "bytes": 154836,
+      "sha256": "f2ab17c1a63a0ecc12c2461848fc8a469395e3cd2d641803e889c643d9f958e1"
+    },
+    {
+      "path": "poppins/Poppins-ExtraLight.ttf",
+      "bytes": 163568,
+      "sha256": "55c03314cc754e26f741f97890e5e9cbe3b3278fe3abcecfecafd60111b2643d"
+    },
+    {
+      "path": "poppins/Poppins-Light.ttf",
+      "bytes": 161936,
+      "sha256": "650ba57fa99d12ec40c31ccfb680be656be4497fbe14164617d67e32ffe9cd46"
+    },
+    {
+      "path": "poppins/Poppins-Medium.ttf",
+      "bytes": 158576,
+      "sha256": "90373e7d838d32468438fc3e152dca0bdb12edcab99ea639f158790b1ba1fd05"
+    },
+    {
+      "path": "poppins/Poppins-Regular.ttf",
+      "bytes": 160316,
+      "sha256": "7e65201e9b79159e2300267cc885e16c8dcef2424cdfa09a29bfb0980a94a7ba"
+    },
+    {
+      "path": "poppins/Poppins-SemiBold.ttf",
+      "bytes": 157312,
+      "sha256": "d3bf1bdaf0550e83da9ac0b1d1d9fe6db086835a83aa28578e609a394b9a0286"
+    },
+    {
+      "path": "poppins/Poppins-Thin.ttf",
+      "bytes": 163672,
+      "sha256": "6d8e5d9d29140cc93e321745fa1243c67889e6bc3639ec34db64f3da7a496352"
+    },
+    {
+      "path": "ptsans/PT_Sans-Web-Bold.ttf",
+      "bytes": 470240,
+      "sha256": "3128bd5ecf01816e59a23d54c57a7a6b14615b07db53ff277c77376010265b05"
+    },
+    {
+      "path": "ptsans/PT_Sans-Web-Regular.ttf",
+      "bytes": 442960,
+      "sha256": "9cc831490532009bae2b3ce0d39c62adfc889060beb421593bfd9d2396d0f10a"
+    },
+    {
+      "path": "ptserif/PT_Serif-Web-Bold.ttf",
+      "bytes": 339996,
+      "sha256": "038ba7336bd7ea14f12ad155bed51a4345cac5153275d521dec3ba04021c526e"
+    },
+    {
+      "path": "ptserif/PT_Serif-Web-Regular.ttf",
+      "bytes": 359048,
+      "sha256": "a4951fade06ff8f09b7673aa81ffb65a8cd409e24d3289a6dc670bc4dda2557a"
+    },
+    {
+      "path": "questrial/Questrial-Regular.ttf",
+      "bytes": 184176,
+      "sha256": "0ee7f2debabb13773fd38468b31820e11fca202a8f98c4d80b6ffcb796899b6f"
+    },
+    {
+      "path": "quicksand/Quicksand-wght.ttf",
+      "bytes": 124824,
+      "sha256": "39c9b64223561f56aaff6062a6f04063c4fc86809ad6768722c06614d977e1cc"
+    },
+    {
+      "path": "raleway/Raleway-wght.ttf",
+      "bytes": 312352,
+      "sha256": "8bbcc3eb8275c388f4bcd998832f8a4b943eadbaf6a595205312774b5951aefb"
+    },
+    {
+      "path": "redhatdisplay/RedHatDisplay-wght.ttf",
+      "bytes": 98360,
+      "sha256": "46c9d4c4a2415e7e72020b318f5cda2bcbc9018d78b1a67e480a76d8d6e4b379"
+    },
+    {
+      "path": "righteous/Righteous-Regular.ttf",
+      "bytes": 43104,
+      "sha256": "2ffb3fe5c27d7e6571210b800448c4e234e651b46c6b4426c1bb567e5341348a"
+    },
+    {
+      "path": "roboto/Roboto-wdth-wght.ttf",
+      "bytes": 488584,
+      "sha256": "d7598e12c5dbef095ff8272cfc55da0250bd07fbdecbac8a530b9b277872a134"
+    },
+    {
+      "path": "robotomono/RobotoMono-wght.ttf",
+      "bytes": 183700,
+      "sha256": "66a80e79d17e4c7cabd162e2916578a4cc08fd19eef6e2a643305eae9c567b2b"
+    },
+    {
+      "path": "rubik/Rubik-wght.ttf",
+      "bytes": 359804,
+      "sha256": "1b3a7437ba2af80e465e773ed60c5036d1ba6ace492d89046dbcf18fb31e4e88"
+    },
+    {
+      "path": "sora/Sora-wght.ttf",
+      "bytes": 111400,
+      "sha256": "84ff7096ae3ec6c8be47d906d1a0ba4de7f2ce78c615275c77301964a316e16c"
+    },
+    {
+      "path": "sourcecodepro/SourceCodePro-wght.ttf",
+      "bytes": 212340,
+      "sha256": "b400fc584e10aff25d0e775ce181b4fc1c5ea1b5dc37b81aeb2084375b945790"
+    },
+    {
+      "path": "sourcesans3/SourceSans3-wght.ttf",
+      "bytes": 646340,
+      "sha256": "042fe2cc0b933e328410d7acbd0aa6a1873dca5aef81875f4bc214b08825c7b9"
+    }
+  ]
+}

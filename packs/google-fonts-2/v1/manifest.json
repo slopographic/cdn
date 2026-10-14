@@ -1,0 +1,243 @@
+{
+  "name": "google-fonts-2",
+  "version": "v1",
+  "licence": "OFL-1.1",
+  "source": "SOURCE.md",
+  "files": [
+    {
+      "path": "cormorantgaramond/CormorantGaramond-wght.ttf",
+      "bytes": 1195560,
+      "sha256": "b20b7d9626dd956b2c5e558692ad328b1f19e3275e2782db4fa07670d83f35e0"
+    },
+    {
+      "path": "courierprime/CourierPrime-Bold.ttf",
+      "bytes": 72856,
+      "sha256": "ff1f38786c849d1c41fa8e447960abdb2bd75fdfb0cfcdeb524fad65a5af3638"
+    },
+    {
+      "path": "courierprime/CourierPrime-Regular.ttf",
+      "bytes": 71188,
+      "sha256": "72f793376f8e2841656bf21d77a5de010f2929bd6956a22ee848ad0c7eb978af"
+    },
+    {
+      "path": "crimsontext/CrimsonText-Bold.ttf",
+      "bytes": 112796,
+      "sha256": "a3a0765fc5e8d0b49b540a23aefe0184887dd79f06a0bdf4db7035cea6befa93"
+    },
+    {
+      "path": "crimsontext/CrimsonText-Regular.ttf",
+      "bytes": 107200,
+      "sha256": "48e6c5d5ad1d01599d374ecb817e15890d1feb3b8a3a88e527d44c90389e1f06"
+    },
+    {
+      "path": "crimsontext/CrimsonText-SemiBold.ttf",
+      "bytes": 111176,
+      "sha256": "802e84000740fec2a9fbe0ae09b6b6811bd86a78a0173b15d44450a1530e9410"
+    },
+    {
+      "path": "dancingscript/DancingScript-wght.ttf",
+      "bytes": 133636,
+      "sha256": "21808625578fe8d8cd10cb684be546dca077b27cd03a53a2f1ec11dc743c924c"
+    },
+    {
+      "path": "dmsans/DMSans-opsz-wght.ttf",
+      "bytes": 240164,
+      "sha256": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d"
+    },
+    {
+      "path": "dmserifdisplay/DMSerifDisplay-Regular.ttf",
+      "bytes": 76580,
+      "sha256": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616"
+    },
+    {
+      "path": "domine/Domine-wght.ttf",
+      "bytes": 101904,
+      "sha256": "c63552cb60c658e90c1da3e83f9e7cf203562c39cdbf5a78ba9df62d8e7a1ed7"
+    },
+    {
+      "path": "dosis/Dosis-wght.ttf",
+      "bytes": 117280,
+      "sha256": "b2238eef0b3464904fed097ef274c704bc63d21407369b7d7a5be7b0821a0e82"
+    },
+    {
+      "path": "ebgaramond/EBGaramond-wght.ttf",
+      "bytes": 851176,
+      "sha256": "ef9512f92f6d579e5dc75af59a5a4b1b8b47d2eda89e00b954d44520e5369027"
+    },
+    {
+      "path": "epilogue/Epilogue-wght.ttf",
+      "bytes": 202996,
+      "sha256": "012f651b45f47c10c7714cb7e3f2f7d9ccb7f235a2cc72c6b273ddc735705c67"
+    },
+    {
+      "path": "exo/Exo-wght.ttf",
+      "bytes": 175092,
+      "sha256": "2f08f818f1135ac5798030c0bca252c0845af5c54dfe172a5c74fbdd68843445"
+    },
+    {
+      "path": "exo2/Exo2-wght.ttf",
+      "bytes": 303940,
+      "sha256": "205a448676a2586f9c57c25f3d5c58ca8db7e6cf5edf7506783a010c6fe2bfb5"
+    },
+    {
+      "path": "figtree/Figtree-wght.ttf",
+      "bytes": 62712,
+      "sha256": "26ad3db9b31ff7dde67a91ff515d022d2f495cd506590699cf264f0bfe6fb714"
+    },
+    {
+      "path": "firacode/FiraCode-wght.ttf",
+      "bytes": 260364,
+      "sha256": "9335b082b3c7850d98a64b584f3417f65355f3471278bb5eeb8c6c0e8657aeeb"
+    },
+    {
+      "path": "firasans/FiraSans-Black.ttf",
+      "bytes": 507204,
+      "sha256": "0ab27e9178d7f74898dd26e3a5f10eb7922bb2a88a2903e00796c4f7c7e08cc0"
+    },
+    {
+      "path": "firasans/FiraSans-Bold.ttf",
+      "bytes": 489720,
+      "sha256": "a4d8e149ecdd4874a0726eb0af894488b3b31c423d6b0017c8f415ed1b795b45"
+    },
+    {
+      "path": "firasans/FiraSans-ExtraBold.ttf",
+      "bytes": 497028,
+      "sha256": "0a26cff904d790f7ade2bffaf227b5fecdbeffdac1695fdbd640e086fe4e7152"
+    },
+    {
+      "path": "firasans/FiraSans-ExtraLight.ttf",
+      "bytes": 447324,
+      "sha256": "f575442d8b863086599208c9b69d0e345a0936f3ec27b12b3fbc41526b56e838"
+    },
+    {
+      "path": "firasans/FiraSans-Light.ttf",
+      "bytes": 449660,
+      "sha256": "e2172f4a23e9be22f977c34de3897d890401bbc5e9c47df968dfa2c01fb32235"
+    },
+    {
+      "path": "firasans/FiraSans-Medium.ttf",
+      "bytes": 457248,
+      "sha256": "cbc1842cbed8c1d1146ba7c9db97d8f28c9bedfd25f41c5b0e1259ca48622328"
+    },
+    {
+      "path": "firasans/FiraSans-Regular.ttf",
+      "bytes": 456996,
+      "sha256": "c29556a2719bf613ef3d5e070e40d903a8965d9c081beca1375dc1e6e0f93c23"
+    },
+    {
+      "path": "firasans/FiraSans-SemiBold.ttf",
+      "bytes": 489028,
+      "sha256": "db0321f83eb3e9f527b8af384a1b3fefdc1039cf2b06fd39b3f61492bda9561c"
+    },
+    {
+      "path": "firasans/FiraSans-Thin.ttf",
+      "bytes": 442852,
+      "sha256": "cd9d582ffae151bc616b26cf84b3c4912d04363b9c5e1b3e599b66e0e7d532a4"
+    },
+    {
+      "path": "heebo/Heebo-wght.ttf",
+      "bytes": 122012,
+      "sha256": "18f930b583fa8fe6b40b2f8263b7ac6afbac07adc91a12467874e7467d3ace30"
+    },
+    {
+      "path": "hind/Hind-Bold.ttf",
+      "bytes": 286604,
+      "sha256": "330c54396bc27628c32e69b88654e41065722182c6f33b936a2a46d72c9d6774"
+    },
+    {
+      "path": "hind/Hind-Light.ttf",
+      "bytes": 287484,
+      "sha256": "c31b8b6073b14f89187586fb1fa38710d8adae3429ef41e1a398dacbfe839e51"
+    },
+    {
+      "path": "hind/Hind-Medium.ttf",
+      "bytes": 277300,
+      "sha256": "70f9c1158390d0c93a8bc24b35b4be4b2439653372bbce7381a32c686fb91a98"
+    },
+    {
+      "path": "hind/Hind-Regular.ttf",
+      "bytes": 299532,
+      "sha256": "01de158022f53077b52303e46de3b0ab5fb245222a7ffe25a2a57fdd9e969162"
+    },
+    {
+      "path": "hind/Hind-SemiBold.ttf",
+      "bytes": 281940,
+      "sha256": "1742a1b0aba97b49da1d3ee3af568fa997c59a3cfe73829f7bec293f416d25dd"
+    },
+    {
+      "path": "ibmplexmono/IBMPlexMono-Bold.ttf",
+      "bytes": 137784,
+      "sha256": "ac27abd6450a64dd94467580a02fe6235156d5b92f2926ebbc8e7489df64e0be"
+    },
+    {
+      "path": "ibmplexmono/IBMPlexMono-ExtraLight.ttf",
+      "bytes": 135980,
+      "sha256": "826b765bd5173b97d521053330a66277edc224f8cc5f1e0035df1d995d5f003c"
+    },
+    {
+      "path": "ibmplexmono/IBMPlexMono-Light.ttf",
+      "bytes": 135216,
+      "sha256": "780bcf65509d72a35ec114b57bcbe220dc6b77d8ea2e9b25e294be3c570c5025"
+    },
+    {
+      "path": "ibmplexmono/IBMPlexMono-Medium.ttf",
+      "bytes": 136704,
+      "sha256": "a9b4c49bb299e05b5f6c481e7fb5e78943d2793249a0c8874ab574a2d1ea6755"
+    },
+    {
+      "path": "ibmplexmono/IBMPlexMono-Regular.ttf",
+      "bytes": 135580,
+      "sha256": "6a3412f058c7d8dfd9170c41e85ade48e5156ecb89356110ca57a0a27734af46"
+    },
+    {
+      "path": "ibmplexmono/IBMPlexMono-SemiBold.ttf",
+      "bytes": 140216,
+      "sha256": "d3c38e55c78f5b0f28009fddba4834ec503278936a5986032424c9bd2d23aa46"
+    },
+    {
+      "path": "ibmplexmono/IBMPlexMono-Thin.ttf",
+      "bytes": 137900,
+      "sha256": "c44c820c14b4f1b818344e5f5dc189cee98b1d5e56b4e80055496c228f3cc7ea"
+    },
+    {
+      "path": "ibmplexsans/IBMPlexSans-wdth-wght.ttf",
+      "bytes": 537244,
+      "sha256": "3b031aa4216174205bd8471f88a49b91f093169e9e87bd5262242bc5967fe2e3"
+    },
+    {
+      "path": "ibmplexserif/IBMPlexSerif-Bold.ttf",
+      "bytes": 163800,
+      "sha256": "534c02c295999dd86e770457ece1d43db0de9256dd98bf741426f63ae904209e"
+    },
+    {
+      "path": "ibmplexserif/IBMPlexSerif-ExtraLight.ttf",
+      "bytes": 163956,
+      "sha256": "e70801926e16dd77c41f4a7c1099f6bab7140f489f03fb80856ec678820be60d"
+    },
+    {
+      "path": "ibmplexserif/IBMPlexSerif-Light.ttf",
+      "bytes": 162748,
+      "sha256": "698bad1d5e52004cb1d504249bd704cf0aed03740d7ef22d7a533db2bc020f69"
+    },
+    {
+      "path": "ibmplexserif/IBMPlexSerif-Medium.ttf",
+      "bytes": 164104,
+      "sha256": "32925e73e5b4a441df9d23e847f2b8c4046c1fc3db094e90bad8883157811509"
+    },
+    {
+      "path": "ibmplexserif/IBMPlexSerif-Regular.ttf",
+      "bytes": 163068,
+      "sha256": "e882efa9c41949a528ac2369079ec5ef050c1c996bbd0bacce3c3326d44cf80d"
+    },
+    {
+      "path": "ibmplexserif/IBMPlexSerif-SemiBold.ttf",
+      "bytes": 164528,
+      "sha256": "27ce4d105591b48f666b228e1e399838a704594efea22b730000951bea700a60"
+    },
+    {
+      "path": "ibmplexserif/IBMPlexSerif-Thin.ttf",
+      "bytes": 161232,
+      "sha256": "1b4df73116dad2432f2d13337ae347fff71a03b8c1ba2b3e1c06cc98aadba72b"
+    }
+  ]
+}

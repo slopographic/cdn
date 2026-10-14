@@ -6,6 +6,11 @@ Optional files for Slopographic apps (models, font packs, the video engine). App
 |---|---|---|---|
 | models/upscale/realesrgan-x4plus.onnx | Slop Upscale | BSD-3-Clause | xinntao/Real-ESRGAN |
 | models/depth/depth-anything-v2-small.onnx | Slop Image to 3D | Apache-2.0 | depth-anything/Depth-Anything-V2-Small |
+| packs/google-fonts-1/v1/*.ttf | Slop fonts (Get more: Google Fonts set 1) | OFL-1.1 (each family's OFL.txt) | github.com/google/fonts at the commit in packs/google-fonts-1/v1/SOURCE.md |
+| packs/google-fonts-2/v1/*.ttf | Slop fonts (Get more: Google Fonts set 2) | OFL-1.1 (each family's OFL.txt) | github.com/google/fonts at the commit in packs/google-fonts-2/v1/SOURCE.md |
+| packs/google-fonts-3/v1/*.ttf | Slop fonts (Get more: Google Fonts set 3) | OFL-1.1 (each family's OFL.txt) | github.com/google/fonts at the commit in packs/google-fonts-3/v1/SOURCE.md |
+| packs/google-fonts-4/v1/*.ttf | Slop fonts (Get more: Google Fonts set 4) | OFL-1.1 (each family's OFL.txt) | github.com/google/fonts at the commit in packs/google-fonts-4/v1/SOURCE.md |
+| packs/google-fonts-5/v1/*.ttf | Slop fonts (Get more: Google Fonts set 5) | OFL-1.1 (each family's OFL.txt) | github.com/google/fonts at the commit in packs/google-fonts-5/v1/SOURCE.md |
 | packs/barlow/v1/*.ttf | Slop fonts (Get more: Barlow and Barlow Condensed) | OFL-1.1 (see packs/barlow/v1/OFL.txt) | google/fonts ofl/barlow; see packs/barlow/v1/SOURCE.md |
 | engines/ffmpeg/0.12.10/ffmpeg-core.wasm (and .js) | Slop Convert (video conversions) | GPL-2.0-or-later (see engines/ffmpeg/0.12.10/LICENSE-GPL-2.0.txt) | ffmpeg.wasm 0.12.10 and FFmpeg; see engines/ffmpeg/0.12.10/SOURCE.md |
 

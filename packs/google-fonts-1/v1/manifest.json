@@ -1,0 +1,223 @@
+{
+  "name": "google-fonts-1",
+  "version": "v1",
+  "licence": "OFL-1.1",
+  "source": "SOURCE.md",
+  "files": [
+    {
+      "path": "abrilfatface/AbrilFatface-Regular.ttf",
+      "bytes": 67364,
+      "sha256": "5971d4a3758a922a9fedc7f6fb825a96341a2e718c45a4b2c9a6b417c8c4dbe9"
+    },
+    {
+      "path": "alegreya/Alegreya-wght.ttf",
+      "bytes": 425288,
+      "sha256": "ba5564634b93a8f8ba57b48cd4f1ae7417d2b4656fbac779028679b00de3cf12"
+    },
+    {
+      "path": "almarai/Almarai-Bold.ttf",
+      "bytes": 156672,
+      "sha256": "06401391b5b39fbcf2bc0c6a6e03faf992435e7b011183a1861737e913af8613"
+    },
+    {
+      "path": "almarai/Almarai-ExtraBold.ttf",
+      "bytes": 168292,
+      "sha256": "9f8f72f1cb06db787a5b32e314a109267e53c505c9f9ab0dad5aa8ff8b219a07"
+    },
+    {
+      "path": "almarai/Almarai-Light.ttf",
+      "bytes": 149480,
+      "sha256": "a57bca270340202a28899f7488ee76ed9b93115b89d7a81db92d68e29993da5a"
+    },
+    {
+      "path": "almarai/Almarai-Regular.ttf",
+      "bytes": 152824,
+      "sha256": "5b5cad33c8e5922083728d271cdcda91f96ba291f1307eccc4f4ef732dc19622"
+    },
+    {
+      "path": "anton/Anton-Regular.ttf",
+      "bytes": 170812,
+      "sha256": "a4ba3a92350ebb031da0cb47630ac49eb265082ca1bc0450442f4a83ab947cab"
+    },
+    {
+      "path": "archivo/Archivo-wdth-wght.ttf",
+      "bytes": 658596,
+      "sha256": "0e094a7d3c7c4c25cf1310c4b30014f1dae9332220b1c2c88f4fa996f0b05053"
+    },
+    {
+      "path": "arvo/Arvo-Bold.ttf",
+      "bytes": 37652,
+      "sha256": "6239b2edee762db0ab99343137c9ba15ae81fc843da2e76a0a395781748cc21f"
+    },
+    {
+      "path": "arvo/Arvo-Regular.ttf",
+      "bytes": 38780,
+      "sha256": "f41bd41471ec2db7140351bdde614da5341524503598ff7fe79f3c89c13b605e"
+    },
+    {
+      "path": "asap/Asap-wdth-wght.ttf",
+      "bytes": 376764,
+      "sha256": "7bf29bcab72f7d00de600e964a3fc206620050d8448ddd976822378d0fe18028"
+    },
+    {
+      "path": "asapcondensed/AsapCondensed-Black.ttf",
+      "bytes": 113996,
+      "sha256": "30e3b2f8c5154fd754057e1a067a0e00ee67efe40e2178af16bcf244d1d0474a"
+    },
+    {
+      "path": "asapcondensed/AsapCondensed-Bold.ttf",
+      "bytes": 111544,
+      "sha256": "0ed4b4f29a0abed3a5049270f28d8e11c797edc7c0270cc51495c0578622f82a"
+    },
+    {
+      "path": "asapcondensed/AsapCondensed-ExtraBold.ttf",
+      "bytes": 113560,
+      "sha256": "6c904a245bb9d04b0b2b1cc441c77c1d2c3710ad872cfbc37cb644cc2857e860"
+    },
+    {
+      "path": "asapcondensed/AsapCondensed-ExtraLight.ttf",
+      "bytes": 106820,
+      "sha256": "e30503c60c1b098ae0657d1527ca596715491db012e2dff9433a61f6cfa7746a"
+    },
+    {
+      "path": "asapcondensed/AsapCondensed-Light.ttf",
+      "bytes": 108020,
+      "sha256": "5c0efec5bc4edf6ab723c7e9aee01c6a77286a47b09ec2bb2242c1301b5d3f7f"
+    },
+    {
+      "path": "asapcondensed/AsapCondensed-Medium.ttf",
+      "bytes": 111476,
+      "sha256": "91a4c8a3a3199d7553aa9b720336cf3fef50b5dbac1d11f8a53241808d72faa0"
+    },
+    {
+      "path": "asapcondensed/AsapCondensed-Regular.ttf",
+      "bytes": 110332,
+      "sha256": "297336aba664e16c2c6aadb64a66fb31d63f048eae3d22409492cd2f1b4cdda0"
+    },
+    {
+      "path": "asapcondensed/AsapCondensed-SemiBold.ttf",
+      "bytes": 111244,
+      "sha256": "92d1eb2579fa9868a1c3676bdb51079d5c13469aa61a12164e25dc46c24bdbae"
+    },
+    {
+      "path": "barlowsemicondensed/BarlowSemiCondensed-Black.ttf",
+      "bytes": 113212,
+      "sha256": "171502596b584862a651426010f14878d8f7a87e6a080a621c0b1cd447a5fefc"
+    },
+    {
+      "path": "barlowsemicondensed/BarlowSemiCondensed-Bold.ttf",
+      "bytes": 111772,
+      "sha256": "5bd6757e459a110da81b44532f0f43058e2dab2401688abca84f2fdbde193cbb"
+    },
+    {
+      "path": "barlowsemicondensed/BarlowSemiCondensed-ExtraBold.ttf",
+      "bytes": 112096,
+      "sha256": "a8096d0dc3ff22ea015d63f436a6856a69e402c12da9991f4a40f2c0bedf44ee"
+    },
+    {
+      "path": "barlowsemicondensed/BarlowSemiCondensed-ExtraLight.ttf",
+      "bytes": 103908,
+      "sha256": "e1ffda60bc25a7f3682785c287b1a167838e786fc018130f7a6907a15e4d0d14"
+    },
+    {
+      "path": "barlowsemicondensed/BarlowSemiCondensed-Light.ttf",
+      "bytes": 104704,
+      "sha256": "cc4a1ad3d68ec017a79b098228e76c722ed92e5e791978467c76437186f22a03"
+    },
+    {
+      "path": "barlowsemicondensed/BarlowSemiCondensed-Medium.ttf",
+      "bytes": 105560,
+      "sha256": "4998b693a190b76f2b11315844345a8546c1e2e6a320905507a9eed04edf8b48"
+    },
+    {
+      "path": "barlowsemicondensed/BarlowSemiCondensed-Regular.ttf",
+      "bytes": 105776,
+      "sha256": "e8c7242f612b13d026e18a94b63b0fd079e91a3faf009d1b6981dbb5f16d1153"
+    },
+    {
+      "path": "barlowsemicondensed/BarlowSemiCondensed-SemiBold.ttf",
+      "bytes": 109772,
+      "sha256": "bd299f4bc5b44d30be8d42e9bad3a5df7d66af1cd55d0ed72a8b8916360a1424"
+    },
+    {
+      "path": "barlowsemicondensed/BarlowSemiCondensed-Thin.ttf",
+      "bytes": 103072,
+      "sha256": "f2ca25edad258019d88879a9a8ae1a952a7a7f68dadef945954c63bacda08026"
+    },
+    {
+      "path": "bebasneue/BebasNeue-Regular.ttf",
+      "bytes": 61400,
+      "sha256": "08e4623805102d819f58601e46e345648846075e363b2ceb23313c2d1c83ec73"
+    },
+    {
+      "path": "bitter/Bitter-wght.ttf",
+      "bytes": 328636,
+      "sha256": "ef2b9a711fb02f1e5823b34da1b7450e0fc76793b7d733a8b41006e24916d4a7"
+    },
+    {
+      "path": "bricolagegrotesque/BricolageGrotesque-opsz-wdth-wght.ttf",
+      "bytes": 408496,
+      "sha256": "413e7357809ddd12fd80a96a8a396de0e401638d4acd3cb3e37532f0472ac682"
+    },
+    {
+      "path": "cabin/Cabin-wdth-wght.ttf",
+      "bytes": 165468,
+      "sha256": "a16576e6cec01cf994c46838ed1c17ffdb62cf6da8430edfbcb011f57dd62457"
+    },
+    {
+      "path": "cabincondensed/CabinCondensed-Bold.ttf",
+      "bytes": 97876,
+      "sha256": "55c7759cde62445fe60d36df812f83ad2f720929628040f2a036e1e8c6e48671"
+    },
+    {
+      "path": "cabincondensed/CabinCondensed-Medium.ttf",
+      "bytes": 98504,
+      "sha256": "08475cc737055f1c08eb1fbcad084abd9d4d0342cb55b3a76e9114cab99ad9e2"
+    },
+    {
+      "path": "cabincondensed/CabinCondensed-Regular.ttf",
+      "bytes": 99468,
+      "sha256": "d3ad2ca1872bc3a8664ba913314b2f85fef015d0a7cb3007a7ca6420b84e574d"
+    },
+    {
+      "path": "cabincondensed/CabinCondensed-SemiBold.ttf",
+      "bytes": 98996,
+      "sha256": "a73b89d750f03af8a6cd8783678cd163ec78f9e2c603d2389548fbb8dfc5d62b"
+    },
+    {
+      "path": "cairo/Cairo-slnt-wght.ttf",
+      "bytes": 599548,
+      "sha256": "667c987182391c91f4e57a2f455b1794fb5e3ee6ca4ef3383e86bb690fa9c964"
+    },
+    {
+      "path": "cardo/Cardo-Bold.ttf",
+      "bytes": 348320,
+      "sha256": "6c9383b1471936ee83b08b67bf79f0ed92bee3d5e8363ec3ba21309d5a272e36"
+    },
+    {
+      "path": "cardo/Cardo-Regular.ttf",
+      "bytes": 400468,
+      "sha256": "bcb81f376f1c3892c7026dabf2beafbd1a7ee8ae95d132ee7d4ff7d7c3988261"
+    },
+    {
+      "path": "catamaran/Catamaran-wght.ttf",
+      "bytes": 184276,
+      "sha256": "f6ee331c381f441454225196d7930d4d0a31554d7f1f9c8c58149ca9e122b294"
+    },
+    {
+      "path": "caveat/Caveat-wght.ttf",
+      "bytes": 403648,
+      "sha256": "0bdb6b660482d31531b3945849fba5916b3ef8695da7024a9e6b9ee3c4157988"
+    },
+    {
+      "path": "chivo/Chivo-wght.ttf",
+      "bytes": 160636,
+      "sha256": "801674cbeff749011a0186b2c932dc9158187a8ca4ca6598db2a1f5c7c4342d1"
+    },
+    {
+      "path": "comfortaa/Comfortaa-wght.ttf",
+      "bytes": 201756,
+      "sha256": "0fc3f45dc48b614db9c39181502544b37217ecbf8bee2fb35886992bc96c5bd3"
+    }
+  ]
+}

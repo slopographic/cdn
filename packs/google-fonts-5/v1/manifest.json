@@ -1,0 +1,183 @@
+{
+  "name": "google-fonts-5",
+  "version": "v1",
+  "licence": "OFL-1.1",
+  "source": "SOURCE.md",
+  "files": [
+    {
+      "path": "spacegrotesk/SpaceGrotesk-wght.ttf",
+      "bytes": 136676,
+      "sha256": "acad6de1fc93436f5c0f1f4137751ef04f1aea3063e7036535970ffcfbd79f72"
+    },
+    {
+      "path": "spacemono/SpaceMono-Bold.ttf",
+      "bytes": 98232,
+      "sha256": "405e73d41afb7e5906efce206a326af5c956f38e255f35421c260e861e599c59"
+    },
+    {
+      "path": "spacemono/SpaceMono-Regular.ttf",
+      "bytes": 99356,
+      "sha256": "95837e182baeeada83368f7748db28357f0a1b75c6b84ff7065b5edf933c8e18"
+    },
+    {
+      "path": "spectral/Spectral-Bold.ttf",
+      "bytes": 273220,
+      "sha256": "70ddb1ec6ae3b0b8d0c79231f670de786978f19baeba2130757526e407aebf9b"
+    },
+    {
+      "path": "spectral/Spectral-ExtraBold.ttf",
+      "bytes": 260528,
+      "sha256": "af3f8513db8d047ebecb1682b5e04dfc12ec7e6b51b71654d4d348f12a5e6b5a"
+    },
+    {
+      "path": "spectral/Spectral-ExtraLight.ttf",
+      "bytes": 244808,
+      "sha256": "5d852db897fd7ad5ce640a6e88f1cd70eac75777c541d02d86749af8d4797ff1"
+    },
+    {
+      "path": "spectral/Spectral-Light.ttf",
+      "bytes": 269312,
+      "sha256": "a2a530303d326473b69ab7863b879e9203ec747e51d5fa7c7b19e0e975e00740"
+    },
+    {
+      "path": "spectral/Spectral-Medium.ttf",
+      "bytes": 272920,
+      "sha256": "f385bc588599c879112272711d4acecc126674009d747a27284f59e93a240e83"
+    },
+    {
+      "path": "spectral/Spectral-Regular.ttf",
+      "bytes": 261088,
+      "sha256": "c89021dc20720c8d0dcf40b0b2f6e00c13665fa8041717f581396f51b8c78f5d"
+    },
+    {
+      "path": "spectral/Spectral-SemiBold.ttf",
+      "bytes": 273068,
+      "sha256": "5f86915a744832ecf6e4a17ab04bea091b9fa992ef5164ff65ae34c1da2fe94b"
+    },
+    {
+      "path": "syne/Syne-wght.ttf",
+      "bytes": 146980,
+      "sha256": "ce5ac77142a65cab2248a1a2ebb740b1d4d9c20b52488877d3ff664d1356104a"
+    },
+    {
+      "path": "tajawal/Tajawal-Black.ttf",
+      "bytes": 59028,
+      "sha256": "da582a579d3200869535dc994d2349608a8582042f8776b3679b157015db287c"
+    },
+    {
+      "path": "tajawal/Tajawal-Bold.ttf",
+      "bytes": 59988,
+      "sha256": "0342ab6b74b6bd1b4b5bf7beda45a9734a2b3147a31e8a3a45b6a3417a52d9d7"
+    },
+    {
+      "path": "tajawal/Tajawal-ExtraBold.ttf",
+      "bytes": 59648,
+      "sha256": "3d1298b747c22579f9e1bdeb0d4165064cb17f7e66145e2f43f9deb12ad7a2cf"
+    },
+    {
+      "path": "tajawal/Tajawal-ExtraLight.ttf",
+      "bytes": 55784,
+      "sha256": "a12ffbfaaec30ab8142edc60fa4727b104a90eb54c6a200a76988a1ec2ec11dc"
+    },
+    {
+      "path": "tajawal/Tajawal-Light.ttf",
+      "bytes": 61864,
+      "sha256": "ab26ed3e0c5af2c71b469b5780decff8088d290ab91aa29b07321580136e813a"
+    },
+    {
+      "path": "tajawal/Tajawal-Medium.ttf",
+      "bytes": 62280,
+      "sha256": "1ff8bd943a261c9dd7906bdb1993cab87b6d925a7fb5f848cdb51ed301531090"
+    },
+    {
+      "path": "tajawal/Tajawal-Regular.ttf",
+      "bytes": 60364,
+      "sha256": "6882892da3e03527d5db2bbab3b48bde6ef2e878a43f522d1a4eebda90010a19"
+    },
+    {
+      "path": "titilliumweb/TitilliumWeb-Black.ttf",
+      "bytes": 49328,
+      "sha256": "6e064771c29aee4c79c9aebbd560db79faa71f4c1944ea27f12d82be8a04b1cb"
+    },
+    {
+      "path": "titilliumweb/TitilliumWeb-Bold.ttf",
+      "bytes": 59884,
+      "sha256": "e2e8e1812041e2c5868f1d03ac24994312052c5381cca2e80748f08cb7e13093"
+    },
+    {
+      "path": "titilliumweb/TitilliumWeb-ExtraLight.ttf",
+      "bytes": 63172,
+      "sha256": "38d310af66c015016c39455b0fde799d83980b844fd1f5d4c45ef558e6d700a2"
+    },
+    {
+      "path": "titilliumweb/TitilliumWeb-Light.ttf",
+      "bytes": 64004,
+      "sha256": "c9bbaf3fdb9cfcfa4a1b4e860f2c5ee32158e80b6b0f1160b40dda2c98037d10"
+    },
+    {
+      "path": "titilliumweb/TitilliumWeb-Regular.ttf",
+      "bytes": 63660,
+      "sha256": "7b6b4452c65cc8b8522e92e7d4d4c2e6d7675341ceafd041bb6bd30297517ea5"
+    },
+    {
+      "path": "titilliumweb/TitilliumWeb-SemiBold.ttf",
+      "bytes": 63008,
+      "sha256": "7c92f15302d7ac1836015cb9cf4068796406667b304a061b75df8e11f1648c81"
+    },
+    {
+      "path": "unbounded/Unbounded-wght.ttf",
+      "bytes": 778272,
+      "sha256": "323b511be380c8d474ef030686b71aedde501f8d9cd46da558b7c40454372c3f"
+    },
+    {
+      "path": "urbanist/Urbanist-wght.ttf",
+      "bytes": 84840,
+      "sha256": "748362d51eb276840e9f0023cd2d98299bf709a95fb3a5ae4ffcb624c638ebb9"
+    },
+    {
+      "path": "varela/Varela-Regular.ttf",
+      "bytes": 188240,
+      "sha256": "87cf0ddd50cd297cd6facfaac8bf59bf8d0b1a3b8b6619957ba08e72043d1896"
+    },
+    {
+      "path": "varelaround/VarelaRound-Regular.ttf",
+      "bytes": 132748,
+      "sha256": "e1e47eb66dbc2ddc106661338e712d9176c9e83c669a82fde155324823d03aa2"
+    },
+    {
+      "path": "vollkorn/Vollkorn-wght.ttf",
+      "bytes": 577864,
+      "sha256": "4ebef434f76f80286204840354a84db79a0dc3c87deeeb791e015b70b2ade49d"
+    },
+    {
+      "path": "worksans/WorkSans-wght.ttf",
+      "bytes": 361072,
+      "sha256": "f50f61f2ba738e239442d40bf1069adb195c224b6a5a73a581fc2f3ed62a9f63"
+    },
+    {
+      "path": "zillaslab/ZillaSlab-Bold.ttf",
+      "bytes": 273044,
+      "sha256": "4ec3a04a4eef37074b42ef542e4d874e13646668cfe65256e0bf100441cf8719"
+    },
+    {
+      "path": "zillaslab/ZillaSlab-Light.ttf",
+      "bytes": 265056,
+      "sha256": "4c3dfcd4a5bb71ee28b6c2ec8e8bfec720f619bc00e12a13a88f0f233af7f851"
+    },
+    {
+      "path": "zillaslab/ZillaSlab-Medium.ttf",
+      "bytes": 268184,
+      "sha256": "d344b0f60cd5fb2d34c4168d2811ba684163e5665e20cccbcfb6ac822d84a500"
+    },
+    {
+      "path": "zillaslab/ZillaSlab-Regular.ttf",
+      "bytes": 270104,
+      "sha256": "41a4626844da9216b031308d4423045c765fe4231d99862d85d7d74509d37703"
+    },
+    {
+      "path": "zillaslab/ZillaSlab-SemiBold.ttf",
+      "bytes": 270088,
+      "sha256": "aafcb295b88d520357db1ecf9a1c3167055e87e9ddf5f63e560cbd139ec2805e"
+    }
+  ]
+}
