@@ -11,6 +11,7 @@ Optional files for Slopographic apps (models, font packs, the video engine). App
 | packs/google-fonts-3/v1/*.ttf | Slop fonts (Get more: Google Fonts set 3) | OFL-1.1 (each family's OFL.txt) | github.com/google/fonts at the commit in packs/google-fonts-3/v1/SOURCE.md |
 | packs/google-fonts-4/v1/*.ttf | Slop fonts (Get more: Google Fonts set 4) | OFL-1.1 (each family's OFL.txt) | github.com/google/fonts at the commit in packs/google-fonts-4/v1/SOURCE.md |
 | packs/google-fonts-5/v1/*.ttf | Slop fonts (Get more: Google Fonts set 5) | OFL-1.1 (each family's OFL.txt) | github.com/google/fonts at the commit in packs/google-fonts-5/v1/SOURCE.md |
+| packs/metric-compatible/v1/*.ttf | Slop fonts (Get more: Calibri, Cambria, Arial, Times New Roman and Courier New compatible) | OFL-1.1 (each family's OFL.txt) | github.com/google/fonts at the commit in packs/metric-compatible/v1/SOURCE.md |
 | packs/barlow/v1/*.ttf | Slop fonts (Get more: Barlow and Barlow Condensed) | OFL-1.1 (see packs/barlow/v1/OFL.txt) | google/fonts ofl/barlow; see packs/barlow/v1/SOURCE.md |
 | engines/ffmpeg/0.12.10/ffmpeg-core.wasm (and .js) | Slop Convert (video conversions) | GPL-2.0-or-later (see engines/ffmpeg/0.12.10/LICENSE-GPL-2.0.txt) | ffmpeg.wasm 0.12.10 and FFmpeg; see engines/ffmpeg/0.12.10/SOURCE.md |
 
