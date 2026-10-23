@@ -5,14 +5,24 @@
   "source": "SOURCE.md",
   "files": [
     {
-      "path": "arimo/Arimo-Italic-wght.ttf",
-      "bytes": 543196,
-      "sha256": "a80fc54fd0233c1dfe298577c4d00f5ae81d5bb83510975e473c47e699b7f4ed"
+      "path": "arimo/Arimo-Bold.ttf",
+      "bytes": 485872,
+      "sha256": "d7a8b187cf8444d4cfee102e8eae9e3043682fd5106d5d33ed677fe268a0e2ba"
     },
     {
-      "path": "arimo/Arimo-wght.ttf",
-      "bytes": 496268,
-      "sha256": "e43898b143ec826ac8cb4034816458a7047fbe0836558de2a1f8c6223ae3e0ca"
+      "path": "arimo/Arimo-BoldItalic.ttf",
+      "bytes": 508508,
+      "sha256": "77c967d49d4ef4a63c39fbcd1e27892102e503e35a20983cb058430c4f268b34"
+    },
+    {
+      "path": "arimo/Arimo-Italic.ttf",
+      "bytes": 502332,
+      "sha256": "ffdf690e4357a392e4edcc3df0b3adb0302920f75e54f2e6eec355afbe7edcba"
+    },
+    {
+      "path": "arimo/Arimo-Regular.ttf",
+      "bytes": 478712,
+      "sha256": "41b22bc8f0b51f932825d37bc55b5eb6ba67dfe599a626e4aff2b43b624f9f8c"
     },
     {
       "path": "caladea/Caladea-Bold.ttf",
