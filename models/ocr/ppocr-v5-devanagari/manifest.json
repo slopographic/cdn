@@ -1,0 +1,22 @@
+{
+  "name": "ppocr-v5-devanagari",
+  "licence": "Apache-2.0",
+  "licenceFile": "LICENSE-Apache-2.0.txt",
+  "source": {
+    "repo": "https://www.modelscope.cn/models/RapidAI/RapidOCR",
+    "revision": "v3.10.0",
+    "upstream": "https://github.com/PaddlePaddle/PaddleOCR"
+  },
+  "files": [
+    {
+      "path": "devanagari_PP-OCRv5_rec_mobile.onnx",
+      "bytes": 7940361,
+      "sha256": "d6f0a906580e3fa6b324a318718f1f31f268b6ea8ef985f91c2012a37f52c91e"
+    },
+    {
+      "path": "ppocrv5_devanagari_dict.txt",
+      "bytes": 1943,
+      "sha256": "09c7440bfc5477e5c41052304b6b185aff8c4a5e8b2b4c23c1c706f6fe1ee9fc"
+    }
+  ]
+}
