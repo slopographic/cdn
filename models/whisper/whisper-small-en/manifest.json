@@ -1,0 +1,53 @@
+{
+  "name": "whisper-small-en",
+  "licence": "MIT",
+  "licenceFile": "LICENSE-MIT-openai-whisper.txt",
+  "source": {
+    "repo": "https://huggingface.co/onnx-community/whisper-small.en",
+    "revision": "482fb8ba081b6e906f92efe103622316b2a0cc69"
+  },
+  "files": [
+    {
+      "path": "encoder_model_quantized.onnx",
+      "bytes": 92326170,
+      "sha256": "dae677b93ca77f911d858238e277026fa8f95a94cb899ea443ec78ee62726edf"
+    },
+    {
+      "path": "decoder_model_merged_quantized.onnx",
+      "bytes": 156750076,
+      "sha256": "29132c41903c252d0f2b9e59ee1e7d75f7d0b64d37f3e36d1ecc4a1a1af62953",
+      "parts": [
+        {
+          "path": "decoder_model_merged_quantized.onnx.part1",
+          "bytes": 94371840,
+          "sha256": "0cdfe002ec5ffa2a29987053a14457ad5da3502c52ebb71f0b6b57845aadb9aa"
+        },
+        {
+          "path": "decoder_model_merged_quantized.onnx.part2",
+          "bytes": 62378236,
+          "sha256": "af03efa23323d7039216866f8a39314ebe2d3f874f71f2dd8ba9cf2c7ef2a445"
+        }
+      ]
+    },
+    {
+      "path": "vocab.json",
+      "bytes": 999186,
+      "sha256": "f6bd25a65e4e63ca31360e9fb11c7e4f9a391a78385d640acd814092dd6eee4f"
+    },
+    {
+      "path": "added_tokens.json",
+      "bytes": 34604,
+      "sha256": "560be47bea388757f8d4cc185c5d82067426cbb6361e38016dd90ddc01ab203a"
+    },
+    {
+      "path": "config.json",
+      "bytes": 2203,
+      "sha256": "8825c4174cb86f94d9fa67614942f8aa17bfbbdf2fae5426d4adfd0bc5893c43"
+    },
+    {
+      "path": "generation_config.json",
+      "bytes": 1956,
+      "sha256": "5490747ca976d6b3765280a0697d66489020c2afa6e754244d9cd093e1639331"
+    }
+  ]
+}
