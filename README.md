@@ -43,5 +43,6 @@ Optional files for Slopographic apps (models, font packs, the video engine). App
 | packs/noto-kr/v1/* | Slop fonts (language pack: Korean (Noto Sans KR)) | OFL-1.1 (see packs/noto-kr/v1/OFL.txt) | notofonts; see packs/noto-kr/v1/SOURCE.md |
 | engines/ffmpeg/0.12.10/ffmpeg-core.wasm (and .js) | Slop Convert (video conversions) | GPL-2.0-or-later (see engines/ffmpeg/0.12.10/LICENSE-GPL-2.0.txt) | ffmpeg.wasm 0.12.10 and FFmpeg; see engines/ffmpeg/0.12.10/SOURCE.md |
 | engines/libraw/libraw-wasm-1.6.0/libraw.wasm (and .js) | PhotoSlop, Slop Gallery, Slop Resize, File convert (camera RAW files) | LGPL-2.1 or CDDL-1.0 (LibRaw), MIT (Little CMS), ISC (wrapper); see engines/libraw/libraw-wasm-1.6.0/SOURCE.md | libraw-wasm 1.6.0 (LibRaw 0.22.1); see engines/libraw/libraw-wasm-1.6.0/SOURCE.md |
+| engines/libheif/libheif-js-1.23.5/libheif.wasm (and .js) | File convert (HEIC and HEIF photos) | LGPL-3.0 (libheif, libde265); see engines/libheif/libheif-js-1.23.5/SOURCE.md | libheif-js 1.23.5 (libheif, libde265 1.0.15); see engines/libheif/libheif-js-1.23.5/SOURCE.md |
 
 SHA-256 values are listed in the apps' model index files and in each folder's manifest.json (for example engines/ffmpeg/0.12.10/manifest.json).
