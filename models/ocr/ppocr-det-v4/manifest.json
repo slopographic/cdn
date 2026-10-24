@@ -1,0 +1,17 @@
+{
+  "name": "ppocr-det-v4",
+  "licence": "Apache-2.0",
+  "licenceFile": "LICENSE-Apache-2.0.txt",
+  "source": {
+    "repo": "https://huggingface.co/SWHL/RapidOCR",
+    "revision": "1cfba2e90fc938db55889873735088de210cc173",
+    "upstream": "https://github.com/PaddlePaddle/PaddleOCR"
+  },
+  "files": [
+    {
+      "path": "ch_PP-OCRv4_det_infer.onnx",
+      "bytes": 4745517,
+      "sha256": "d2a7720d45a54257208b1e13e36a8479894cb74155a5efe29462512d42f49da9"
+    }
+  ]
+}
