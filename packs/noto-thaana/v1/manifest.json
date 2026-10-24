@@ -1,0 +1,18 @@
+{
+  "name": "noto-thaana",
+  "version": "v1",
+  "licence": "OFL-1.1",
+  "source": "SOURCE.md",
+  "files": [
+    {
+      "path": "NotoSansThaana-Bold.ttf",
+      "bytes": 27000,
+      "sha256": "476597290f449013cb07477b1089219db333c6af9ec0e436a74139ea9b2c8536"
+    },
+    {
+      "path": "NotoSansThaana-Regular.ttf",
+      "bytes": 27308,
+      "sha256": "7543935bdcef770c9d3dd54222651b29040e5ec82f3bc58542392b2c7a9cbd3c"
+    }
+  ]
+}

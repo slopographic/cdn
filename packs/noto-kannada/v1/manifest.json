@@ -1,0 +1,18 @@
+{
+  "name": "noto-kannada",
+  "version": "v1",
+  "licence": "OFL-1.1",
+  "source": "SOURCE.md",
+  "files": [
+    {
+      "path": "NotoSansKannada-Bold.ttf",
+      "bytes": 187208,
+      "sha256": "3db1507b3f856185fc7c00dc0addfd4797a8ea6955b86d1d21fa659cc9d5e849"
+    },
+    {
+      "path": "NotoSansKannada-Regular.ttf",
+      "bytes": 182416,
+      "sha256": "9ad74dc64838c6855b96f671fc08e425a58921b9d0c71712ea79c328a27e6e38"
+    }
+  ]
+}

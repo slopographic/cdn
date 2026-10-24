@@ -1,0 +1,18 @@
+{
+  "name": "noto-jp",
+  "version": "v1",
+  "licence": "OFL-1.1",
+  "source": "SOURCE.md",
+  "files": [
+    {
+      "path": "NotoSansJP-Bold.otf",
+      "bytes": 4656448,
+      "sha256": "1b0edfb500b73a4fa8a4fcaae1bbbd403994e08e73e3e0da37e70d3853f42c5f"
+    },
+    {
+      "path": "NotoSansJP-Regular.otf",
+      "bytes": 4533028,
+      "sha256": "dff723ba59d57d136764a04b9b2d03205544f7cd785a711442d6d2d085ac5073"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "noto-georgian",
+  "version": "v1",
+  "licence": "OFL-1.1",
+  "source": "SOURCE.md",
+  "files": [
+    {
+      "path": "NotoSansGeorgian-Bold.ttf",
+      "bytes": 54748,
+      "sha256": "a7f6bc365b7c33372e9ff0b0422f35dad52df501a8fcd4e8766cefa430508693"
+    },
+    {
+      "path": "NotoSansGeorgian-Regular.ttf",
+      "bytes": 52888,
+      "sha256": "d3e33254b09e7bb2c5cf0f17e554b80462056c5a107097f258d495168c3a9346"
+    }
+  ]
+}

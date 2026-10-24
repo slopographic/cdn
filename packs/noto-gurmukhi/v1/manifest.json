@@ -1,0 +1,18 @@
+{
+  "name": "noto-gurmukhi",
+  "version": "v1",
+  "licence": "OFL-1.1",
+  "source": "SOURCE.md",
+  "files": [
+    {
+      "path": "NotoSansGurmukhi-Bold.ttf",
+      "bytes": 55088,
+      "sha256": "4f1bb4b1a05a0ebe1520678132a9448fce8f1741552c5292d7df7a7786d2c956"
+    },
+    {
+      "path": "NotoSansGurmukhi-Regular.ttf",
+      "bytes": 55172,
+      "sha256": "658d0207da305a1411c539a8b0bbeda64d4146e54fb4827facddb890b6b90d74"
+    }
+  ]
+}

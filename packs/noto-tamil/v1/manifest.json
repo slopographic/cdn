@@ -1,0 +1,18 @@
+{
+  "name": "noto-tamil",
+  "version": "v1",
+  "licence": "OFL-1.1",
+  "source": "SOURCE.md",
+  "files": [
+    {
+      "path": "NotoSansTamil-Bold.ttf",
+      "bytes": 77176,
+      "sha256": "683682d585698b8b44da066d4903762d8aaa471bdffb919ac869753689ba3950"
+    },
+    {
+      "path": "NotoSansTamil-Regular.ttf",
+      "bytes": 73992,
+      "sha256": "3c0a186feb3c63c7f6d63e1511dcdc144e745ae09b98e217c83f3e317974f6f9"
+    }
+  ]
+}

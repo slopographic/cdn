@@ -1,0 +1,18 @@
+{
+  "name": "noto-ethiopic",
+  "version": "v1",
+  "licence": "OFL-1.1",
+  "source": "SOURCE.md",
+  "files": [
+    {
+      "path": "NotoSansEthiopic-Bold.ttf",
+      "bytes": 375172,
+      "sha256": "b45f16db963a94ccb6590b65d3b0e48f55cde011f7c0d4f3c00531e6b8500d6f"
+    },
+    {
+      "path": "NotoSansEthiopic-Regular.ttf",
+      "bytes": 376804,
+      "sha256": "f6f7fc379db9438959a2b0527e7a2cf36ea9c84626d56ec444fff37fc24c3c10"
+    }
+  ]
+}

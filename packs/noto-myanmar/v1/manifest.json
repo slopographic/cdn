@@ -1,0 +1,18 @@
+{
+  "name": "noto-myanmar",
+  "version": "v1",
+  "licence": "OFL-1.1",
+  "source": "SOURCE.md",
+  "files": [
+    {
+      "path": "NotoSansMyanmar-Bold.ttf",
+      "bytes": 208760,
+      "sha256": "99a8c6768416747653232ded39292e789ca579f4272adfb2886f6aa219d20302"
+    },
+    {
+      "path": "NotoSansMyanmar-Regular.ttf",
+      "bytes": 195088,
+      "sha256": "fafce4db400bc0b214907ccdbfb0ad2f18a57bfefd08c8a571830b84088cf2fc"
+    }
+  ]
+}

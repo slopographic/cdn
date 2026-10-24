@@ -1,0 +1,18 @@
+{
+  "name": "noto-thai",
+  "version": "v1",
+  "licence": "OFL-1.1",
+  "source": "SOURCE.md",
+  "files": [
+    {
+      "path": "NotoSansThai-Bold.ttf",
+      "bytes": 37824,
+      "sha256": "2ac6c6e8a478e23b15f76e4894af1fa2210f8f350e4e6e54aad530bec03efbfb"
+    },
+    {
+      "path": "NotoSansThai-Regular.ttf",
+      "bytes": 37780,
+      "sha256": "61cf814eec46b294d6ea4401ac295d0cecd5207bd2331dcc5a15e7301d30ee44"
+    }
+  ]
+}

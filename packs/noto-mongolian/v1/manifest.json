@@ -1,0 +1,13 @@
+{
+  "name": "noto-mongolian",
+  "version": "v1",
+  "licence": "OFL-1.1",
+  "source": "SOURCE.md",
+  "files": [
+    {
+      "path": "NotoSansMongolian-Regular.ttf",
+      "bytes": 360756,
+      "sha256": "10f9066fe5cedcaa41c17d471bcadc7fb22880ce81ff2c06578671768ff44fbb"
+    }
+  ]
+}

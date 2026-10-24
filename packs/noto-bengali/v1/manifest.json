@@ -1,0 +1,18 @@
+{
+  "name": "noto-bengali",
+  "version": "v1",
+  "licence": "OFL-1.1",
+  "source": "SOURCE.md",
+  "files": [
+    {
+      "path": "NotoSansBengali-Bold.ttf",
+      "bytes": 144828,
+      "sha256": "923c6a4c2eb618a57ed83f4bca855b4f5287b87906a4d9df40a2ffa8ebd8c2e8"
+    },
+    {
+      "path": "NotoSansBengali-Regular.ttf",
+      "bytes": 143072,
+      "sha256": "b55c62ee531e3214da6c0701daecea89a52ba42db7d8206b92e6b51f397a3193"
+    }
+  ]
+}

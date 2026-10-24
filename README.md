@@ -13,6 +13,34 @@ Optional files for Slopographic apps (models, font packs, the video engine). App
 | packs/google-fonts-5/v1/*.ttf | Slop fonts (Get more: Google Fonts set 5) | OFL-1.1 (each family's OFL.txt) | github.com/google/fonts at the commit in packs/google-fonts-5/v1/SOURCE.md |
 | packs/metric-compatible/v1/*.ttf | Slop fonts (Get more: Calibri, Cambria, Arial, Times New Roman and Courier New compatible) | OFL-1.1 (each family's OFL.txt) | github.com/google/fonts at the commit in packs/metric-compatible/v1/SOURCE.md |
 | packs/barlow/v1/*.ttf | Slop fonts (Get more: Barlow and Barlow Condensed) | OFL-1.1 (see packs/barlow/v1/OFL.txt) | google/fonts ofl/barlow; see packs/barlow/v1/SOURCE.md |
+| packs/noto-sans/v1/* | Slop fonts (language pack: Latin, Greek and Cyrillic (Noto Sans)) | OFL-1.1 (see packs/noto-sans/v1/OFL.txt) | notofonts; see packs/noto-sans/v1/SOURCE.md |
+| packs/noto-arabic/v1/* | Slop fonts (language pack: Arabic (Noto Sans Arabic)) | OFL-1.1 (see packs/noto-arabic/v1/OFL.txt) | notofonts; see packs/noto-arabic/v1/SOURCE.md |
+| packs/noto-hebrew/v1/* | Slop fonts (language pack: Hebrew (Noto Sans Hebrew)) | OFL-1.1 (see packs/noto-hebrew/v1/OFL.txt) | notofonts; see packs/noto-hebrew/v1/SOURCE.md |
+| packs/noto-devanagari/v1/* | Slop fonts (language pack: Devanagari (Noto Sans Devanagari)) | OFL-1.1 (see packs/noto-devanagari/v1/OFL.txt) | notofonts; see packs/noto-devanagari/v1/SOURCE.md |
+| packs/noto-bengali/v1/* | Slop fonts (language pack: Bengali (Noto Sans Bengali)) | OFL-1.1 (see packs/noto-bengali/v1/OFL.txt) | notofonts; see packs/noto-bengali/v1/SOURCE.md |
+| packs/noto-tamil/v1/* | Slop fonts (language pack: Tamil (Noto Sans Tamil)) | OFL-1.1 (see packs/noto-tamil/v1/OFL.txt) | notofonts; see packs/noto-tamil/v1/SOURCE.md |
+| packs/noto-telugu/v1/* | Slop fonts (language pack: Telugu (Noto Sans Telugu)) | OFL-1.1 (see packs/noto-telugu/v1/OFL.txt) | notofonts; see packs/noto-telugu/v1/SOURCE.md |
+| packs/noto-kannada/v1/* | Slop fonts (language pack: Kannada (Noto Sans Kannada)) | OFL-1.1 (see packs/noto-kannada/v1/OFL.txt) | notofonts; see packs/noto-kannada/v1/SOURCE.md |
+| packs/noto-malayalam/v1/* | Slop fonts (language pack: Malayalam (Noto Sans Malayalam)) | OFL-1.1 (see packs/noto-malayalam/v1/OFL.txt) | notofonts; see packs/noto-malayalam/v1/SOURCE.md |
+| packs/noto-gujarati/v1/* | Slop fonts (language pack: Gujarati (Noto Sans Gujarati)) | OFL-1.1 (see packs/noto-gujarati/v1/OFL.txt) | notofonts; see packs/noto-gujarati/v1/SOURCE.md |
+| packs/noto-gurmukhi/v1/* | Slop fonts (language pack: Gurmukhi (Noto Sans Gurmukhi)) | OFL-1.1 (see packs/noto-gurmukhi/v1/OFL.txt) | notofonts; see packs/noto-gurmukhi/v1/SOURCE.md |
+| packs/noto-oriya/v1/* | Slop fonts (language pack: Odia (Noto Sans Oriya)) | OFL-1.1 (see packs/noto-oriya/v1/OFL.txt) | notofonts; see packs/noto-oriya/v1/SOURCE.md |
+| packs/noto-sinhala/v1/* | Slop fonts (language pack: Sinhala (Noto Sans Sinhala)) | OFL-1.1 (see packs/noto-sinhala/v1/OFL.txt) | notofonts; see packs/noto-sinhala/v1/SOURCE.md |
+| packs/noto-thai/v1/* | Slop fonts (language pack: Thai (Noto Sans Thai)) | OFL-1.1 (see packs/noto-thai/v1/OFL.txt) | notofonts; see packs/noto-thai/v1/SOURCE.md |
+| packs/noto-lao/v1/* | Slop fonts (language pack: Lao (Noto Sans Lao)) | OFL-1.1 (see packs/noto-lao/v1/OFL.txt) | notofonts; see packs/noto-lao/v1/SOURCE.md |
+| packs/noto-khmer/v1/* | Slop fonts (language pack: Khmer (Noto Sans Khmer)) | OFL-1.1 (see packs/noto-khmer/v1/OFL.txt) | notofonts; see packs/noto-khmer/v1/SOURCE.md |
+| packs/noto-myanmar/v1/* | Slop fonts (language pack: Myanmar (Noto Sans Myanmar)) | OFL-1.1 (see packs/noto-myanmar/v1/OFL.txt) | notofonts; see packs/noto-myanmar/v1/SOURCE.md |
+| packs/noto-georgian/v1/* | Slop fonts (language pack: Georgian (Noto Sans Georgian)) | OFL-1.1 (see packs/noto-georgian/v1/OFL.txt) | notofonts; see packs/noto-georgian/v1/SOURCE.md |
+| packs/noto-armenian/v1/* | Slop fonts (language pack: Armenian (Noto Sans Armenian)) | OFL-1.1 (see packs/noto-armenian/v1/OFL.txt) | notofonts; see packs/noto-armenian/v1/SOURCE.md |
+| packs/noto-ethiopic/v1/* | Slop fonts (language pack: Ethiopic (Noto Sans Ethiopic)) | OFL-1.1 (see packs/noto-ethiopic/v1/OFL.txt) | notofonts; see packs/noto-ethiopic/v1/SOURCE.md |
+| packs/noto-tibetan/v1/* | Slop fonts (language pack: Tibetan (Noto Serif Tibetan)) | OFL-1.1 (see packs/noto-tibetan/v1/OFL.txt) | notofonts; see packs/noto-tibetan/v1/SOURCE.md |
+| packs/noto-thaana/v1/* | Slop fonts (language pack: Thaana (Noto Sans Thaana)) | OFL-1.1 (see packs/noto-thaana/v1/OFL.txt) | notofonts; see packs/noto-thaana/v1/SOURCE.md |
+| packs/noto-mongolian/v1/* | Slop fonts (language pack: Mongolian (Noto Sans Mongolian)) | OFL-1.1 (see packs/noto-mongolian/v1/OFL.txt) | notofonts; see packs/noto-mongolian/v1/SOURCE.md |
+| packs/noto-cherokee/v1/* | Slop fonts (language pack: Cherokee (Noto Sans Cherokee)) | OFL-1.1 (see packs/noto-cherokee/v1/OFL.txt) | notofonts; see packs/noto-cherokee/v1/SOURCE.md |
+| packs/noto-sc/v1/* | Slop fonts (language pack: Chinese, simplified (Noto Sans SC)) | OFL-1.1 (see packs/noto-sc/v1/OFL.txt) | notofonts; see packs/noto-sc/v1/SOURCE.md |
+| packs/noto-tc/v1/* | Slop fonts (language pack: Chinese, traditional (Noto Sans TC)) | OFL-1.1 (see packs/noto-tc/v1/OFL.txt) | notofonts; see packs/noto-tc/v1/SOURCE.md |
+| packs/noto-jp/v1/* | Slop fonts (language pack: Japanese (Noto Sans JP)) | OFL-1.1 (see packs/noto-jp/v1/OFL.txt) | notofonts; see packs/noto-jp/v1/SOURCE.md |
+| packs/noto-kr/v1/* | Slop fonts (language pack: Korean (Noto Sans KR)) | OFL-1.1 (see packs/noto-kr/v1/OFL.txt) | notofonts; see packs/noto-kr/v1/SOURCE.md |
 | engines/ffmpeg/0.12.10/ffmpeg-core.wasm (and .js) | Slop Convert (video conversions) | GPL-2.0-or-later (see engines/ffmpeg/0.12.10/LICENSE-GPL-2.0.txt) | ffmpeg.wasm 0.12.10 and FFmpeg; see engines/ffmpeg/0.12.10/SOURCE.md |
 
 SHA-256 values are listed in the apps' model index files and in each folder's manifest.json (for example engines/ffmpeg/0.12.10/manifest.json).

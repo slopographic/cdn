@@ -1,0 +1,18 @@
+{
+  "name": "noto-lao",
+  "version": "v1",
+  "licence": "OFL-1.1",
+  "source": "SOURCE.md",
+  "files": [
+    {
+      "path": "NotoSansLao-Bold.ttf",
+      "bytes": 37252,
+      "sha256": "18e3bf1443320fa807f9b85a9971d2bc3efe28b41bb96f75fde2096acb316709"
+    },
+    {
+      "path": "NotoSansLao-Regular.ttf",
+      "bytes": 35884,
+      "sha256": "0a86e5e1ccfe34ca78c43fac6829dc751b42bcc469272a9a55325aae587bfbe7"
+    }
+  ]
+}

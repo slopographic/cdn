@@ -1,0 +1,18 @@
+{
+  "name": "noto-tibetan",
+  "version": "v1",
+  "licence": "OFL-1.1",
+  "source": "SOURCE.md",
+  "files": [
+    {
+      "path": "NotoSerifTibetan-Bold.ttf",
+      "bytes": 602368,
+      "sha256": "1e8ca12dff8bf6adee21f5b0a6ba827fc2f9b3c515655983438371d1275e1d53"
+    },
+    {
+      "path": "NotoSerifTibetan-Regular.ttf",
+      "bytes": 609688,
+      "sha256": "ee97bf3dc56e813651db734c9f35f8f1d41e7e31acf5f7d893e64ad22b292446"
+    }
+  ]
+}

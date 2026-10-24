@@ -1,0 +1,18 @@
+{
+  "name": "noto-khmer",
+  "version": "v1",
+  "licence": "OFL-1.1",
+  "source": "SOURCE.md",
+  "files": [
+    {
+      "path": "NotoSansKhmer-Bold.ttf",
+      "bytes": 113740,
+      "sha256": "17e5bb518c0ea3d998d42bf920d0771a79dc6f3c12c5d9f3c122c7e6c8ce3076"
+    },
+    {
+      "path": "NotoSansKhmer-Regular.ttf",
+      "bytes": 114576,
+      "sha256": "e66675f2082788f0511a714bef5a1748928294b38c8e286a96ea73a864b5e605"
+    }
+  ]
+}

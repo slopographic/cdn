@@ -1,0 +1,18 @@
+{
+  "name": "noto-telugu",
+  "version": "v1",
+  "licence": "OFL-1.1",
+  "source": "SOURCE.md",
+  "files": [
+    {
+      "path": "NotoSansTelugu-Bold.ttf",
+      "bytes": 243412,
+      "sha256": "ec98c4f82abfe52ebe00be298d39c469deb86cf027929987759ba1eab361fbb4"
+    },
+    {
+      "path": "NotoSansTelugu-Regular.ttf",
+      "bytes": 235176,
+      "sha256": "b274780b69d1d23fe84b55e809a152cb2ac5306d33864b1f87622f6971871aae"
+    }
+  ]
+}

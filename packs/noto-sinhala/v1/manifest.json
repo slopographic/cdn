@@ -1,0 +1,18 @@
+{
+  "name": "noto-sinhala",
+  "version": "v1",
+  "licence": "OFL-1.1",
+  "source": "SOURCE.md",
+  "files": [
+    {
+      "path": "NotoSansSinhala-Bold.ttf",
+      "bytes": 192976,
+      "sha256": "e1f8867effb18940b02173a120641e526e5aaa8efc176870e62b2d49b1e6fd3f"
+    },
+    {
+      "path": "NotoSansSinhala-Regular.ttf",
+      "bytes": 154912,
+      "sha256": "9e32612d47004552f3125e78648a9e2e7899a216ccd3cefbb93a9b5f4c809feb"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "noto-gujarati",
+  "version": "v1",
+  "licence": "OFL-1.1",
+  "source": "SOURCE.md",
+  "files": [
+    {
+      "path": "NotoSansGujarati-Bold.ttf",
+      "bytes": 201032,
+      "sha256": "7c1da9cad53f83804a330bad413b015987f4b6520da54263b0e39b7b8736525b"
+    },
+    {
+      "path": "NotoSansGujarati-Regular.ttf",
+      "bytes": 200704,
+      "sha256": "9b5a7aaeeb649a2e75a49d8b006a1f87db1b61c0df3b001609f4e0725d88dbf6"
+    }
+  ]
+}
