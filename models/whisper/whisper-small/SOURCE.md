@@ -1,0 +1,8 @@
+# whisper-small
+
+- Source: https://huggingface.co/onnx-community/whisper-small at revision `36050c46d777d46dc4b5f43f6d90574fc38f8732` (files from `onnx/` and the repository root).
+- ONNX export of openai/whisper-small by onnx-community (int8), unchanged.
+- Licence: MIT (`LICENSE-MIT-openai-whisper.txt`). The Whisper weights are by OpenAI (github.com/openai/whisper).
+- Files over 95 MB are split into `.partN` pieces (GitHub refuses files over 100 MB). The apps download the
+  pieces in order, check each piece's SHA-256, join them and check the whole file's SHA-256 (all in `manifest.json`).
+- Used by: Slop Transcribe and Slop AI Tools (Speech to text), through `aitools/speech-models.js` in the apps repo.
