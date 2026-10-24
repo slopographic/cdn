@@ -1,0 +1,41 @@
+{
+  "name": "nb-whisper-base",
+  "licence": "Apache-2.0",
+  "licenceFile": "LICENSE-Apache-2.0.txt",
+  "source": {
+    "repo": "https://huggingface.co/onnx-community/nb-whisper-base-ONNX",
+    "revision": "9bdce3acaeb772f968d0271cab8c72d883123cc9"
+  },
+  "files": [
+    {
+      "path": "encoder_model_quantized.onnx",
+      "bytes": 23123020,
+      "sha256": "51af9c68c86c298d04e526e3ccaf60b0fa7a82b51fbafacc3e7135dcb24668f2"
+    },
+    {
+      "path": "decoder_model_merged_quantized.onnx",
+      "bytes": 52728917,
+      "sha256": "7daae053cc57dd1641104ecc16a60483d70724d0d0fbdae379ae4fbe3f1f2872"
+    },
+    {
+      "path": "vocab.json",
+      "bytes": 1036584,
+      "sha256": "50d6a919f0a0601d56a04eb583c780d18553aa388254ba3158eb6a00f13e2c1a"
+    },
+    {
+      "path": "added_tokens.json",
+      "bytes": 34604,
+      "sha256": "9715fd2243b6f06a5858b5e32950d2853f73dd5bc201aafcf76f5082a2d8acd1"
+    },
+    {
+      "path": "config.json",
+      "bytes": 3649,
+      "sha256": "3ddd12d3b38f755027775d20249bad6118595583c8ed86239c734e48411fdba4"
+    },
+    {
+      "path": "generation_config.json",
+      "bytes": 3884,
+      "sha256": "ed4ee46df1b3e4f9067f4f72aa7a159111c5b2ae2c9a401c9ea70d3ed5d4a26b"
+    }
+  ]
+}
