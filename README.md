@@ -6,6 +6,15 @@ Optional files for Slopographic apps (models, font packs, the video engine). App
 |---|---|---|---|
 | models/upscale/realesrgan-x4plus.onnx | Slop Upscale | BSD-3-Clause | xinntao/Real-ESRGAN |
 | models/depth/depth-anything-v2-small.onnx | Slop Image to 3D | Apache-2.0 | depth-anything/Depth-Anything-V2-Small |
+| models/whisper/whisper-tiny/* | Slop Transcribe, Slop AI Tools (speech to text): Whisper tiny (multilingual) | MIT (see models/whisper/whisper-tiny/SOURCE.md) | openai/whisper (ONNX export Xenova/whisper-tiny); the revision is in SOURCE.md |
+| models/whisper/whisper-base/* | Slop Transcribe, Slop AI Tools (speech to text): Whisper base (multilingual) | MIT (see models/whisper/whisper-base/SOURCE.md) | openai/whisper (ONNX export onnx-community/whisper-base); the revision is in SOURCE.md |
+| models/whisper/whisper-small/* | Slop Transcribe, Slop AI Tools (speech to text): Whisper small (multilingual) | MIT (see models/whisper/whisper-small/SOURCE.md) | openai/whisper (ONNX export onnx-community/whisper-small); the revision is in SOURCE.md |
+| models/whisper/whisper-base-en/* | Slop Transcribe, Slop AI Tools (speech to text): Whisper base.en (English only) | MIT (see models/whisper/whisper-base-en/SOURCE.md) | openai/whisper (ONNX export onnx-community/whisper-base.en); the revision is in SOURCE.md |
+| models/whisper/whisper-small-en/* | Slop Transcribe, Slop AI Tools (speech to text): Whisper small.en (English only) | MIT (see models/whisper/whisper-small-en/SOURCE.md) | openai/whisper (ONNX export onnx-community/whisper-small.en); the revision is in SOURCE.md |
+| models/whisper/kb-whisper-base/* | Slop Transcribe, Slop AI Tools (speech to text): KB-Whisper base (Swedish) | Apache-2.0 (see models/whisper/kb-whisper-base/SOURCE.md) | KBLab/kb-whisper-base (decoder quantised to int8 here); the revision is in SOURCE.md |
+| models/whisper/kb-whisper-small/* | Slop Transcribe, Slop AI Tools (speech to text): KB-Whisper small (Swedish) | Apache-2.0 (see models/whisper/kb-whisper-small/SOURCE.md) | KBLab/kb-whisper-small (decoder quantised to int8 here); the revision is in SOURCE.md |
+| models/whisper/nb-whisper-base/* | Slop Transcribe, Slop AI Tools (speech to text): NB-Whisper base (Norwegian) | Apache-2.0 (see models/whisper/nb-whisper-base/SOURCE.md) | NbAiLab/nb-whisper-base via onnx-community/nb-whisper-base-ONNX (decoder quantised to int8 here); the revision is in SOURCE.md |
+| models/whisper/nb-whisper-small/* | Slop Transcribe, Slop AI Tools (speech to text): NB-Whisper small (Norwegian) | Apache-2.0 (see models/whisper/nb-whisper-small/SOURCE.md) | NbAiLab/nb-whisper-small via onnx-community/nb-whisper-small-ONNX (decoder quantised to int8 here); the revision is in SOURCE.md |
 | packs/google-fonts-1/v1/*.ttf | Slop fonts (Get more: Google Fonts set 1) | OFL-1.1 (each family's OFL.txt) | github.com/google/fonts at the commit in packs/google-fonts-1/v1/SOURCE.md |
 | packs/google-fonts-2/v1/*.ttf | Slop fonts (Get more: Google Fonts set 2) | OFL-1.1 (each family's OFL.txt) | github.com/google/fonts at the commit in packs/google-fonts-2/v1/SOURCE.md |
 | packs/google-fonts-3/v1/*.ttf | Slop fonts (Get more: Google Fonts set 3) | OFL-1.1 (each family's OFL.txt) | github.com/google/fonts at the commit in packs/google-fonts-3/v1/SOURCE.md |
@@ -44,5 +53,7 @@ Optional files for Slopographic apps (models, font packs, the video engine). App
 | engines/ffmpeg/0.12.10/ffmpeg-core.wasm (and .js) | Slop Convert (video conversions) | GPL-2.0-or-later (see engines/ffmpeg/0.12.10/LICENSE-GPL-2.0.txt) | ffmpeg.wasm 0.12.10 and FFmpeg; see engines/ffmpeg/0.12.10/SOURCE.md |
 | engines/libraw/libraw-wasm-1.6.0/libraw.wasm (and .js) | PhotoSlop, Slop Gallery, Slop Resize, File convert (camera RAW files) | LGPL-2.1 or CDDL-1.0 (LibRaw), MIT (Little CMS), ISC (wrapper); see engines/libraw/libraw-wasm-1.6.0/SOURCE.md | libraw-wasm 1.6.0 (LibRaw 0.22.1); see engines/libraw/libraw-wasm-1.6.0/SOURCE.md |
 | engines/libheif/libheif-js-1.23.5/libheif.wasm (and .js) | File convert (HEIC and HEIF photos) | LGPL-3.0 (libheif, libde265); see engines/libheif/libheif-js-1.23.5/SOURCE.md | libheif-js 1.23.5 (libheif, libde265 1.0.15); see engines/libheif/libheif-js-1.23.5/SOURCE.md |
+
+Files over 95 MB are stored as `.partN` pieces (GitHub refuses files over 100 MB); the manifest lists each piece and the joined file with their SHA-256, and the apps check both.
 
 SHA-256 values are listed in the apps' model index files and in each folder's manifest.json (for example engines/ffmpeg/0.12.10/manifest.json).
