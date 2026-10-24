@@ -1,0 +1,53 @@
+{
+  "name": "kb-whisper-small",
+  "licence": "Apache-2.0",
+  "licenceFile": "LICENSE-Apache-2.0.txt",
+  "source": {
+    "repo": "https://huggingface.co/KBLab/kb-whisper-small",
+    "revision": "3564d61a42fc210ceaa55a22a96dd64478959c78"
+  },
+  "files": [
+    {
+      "path": "encoder_model_quantized.onnx",
+      "bytes": 92169288,
+      "sha256": "61b11cc46d251167fbeb6e423b9d4da8672f14e175afbd974204e534c61652a7"
+    },
+    {
+      "path": "decoder_model_merged_quantized.onnx",
+      "bytes": 155161985,
+      "sha256": "8eb56382bc0a26bbbdf098eb29bfbcb3d6962c90a2c198fe009389105e54512a",
+      "parts": [
+        {
+          "path": "decoder_model_merged_quantized.onnx.part1",
+          "bytes": 94371840,
+          "sha256": "3da7d5753b1f5acc4bf4fdb897e91b7cb302d70a092ba3d0bc78f1c92fb593ec"
+        },
+        {
+          "path": "decoder_model_merged_quantized.onnx.part2",
+          "bytes": 60790145,
+          "sha256": "ff3e01760b98934750fdbb782decf374370d2255123d2ae9cc21e21ab89d0f78"
+        }
+      ]
+    },
+    {
+      "path": "vocab.json",
+      "bytes": 835550,
+      "sha256": "8f680bba319e01a653d2e8a5dbc17a9157179e0576e6ce74ce0c06356c6e24f9"
+    },
+    {
+      "path": "added_tokens.json",
+      "bytes": 34604,
+      "sha256": "9715fd2243b6f06a5858b5e32950d2853f73dd5bc201aafcf76f5082a2d8acd1"
+    },
+    {
+      "path": "config.json",
+      "bytes": 3690,
+      "sha256": "140db3a6a718f234e0b6ddbd12841fde9180b97b8689840601d4f4acc8c1d4e1"
+    },
+    {
+      "path": "generation_config.json",
+      "bytes": 3911,
+      "sha256": "90d06484338974d48edd3c047c304e139e978d1b2b8fd6eef129f4261f52f12f"
+    }
+  ]
+}
