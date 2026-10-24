@@ -1,0 +1,22 @@
+{
+  "name": "ppocr-v5-cjk",
+  "licence": "Apache-2.0",
+  "licenceFile": "LICENSE-Apache-2.0.txt",
+  "source": {
+    "repo": "https://www.modelscope.cn/models/RapidAI/RapidOCR",
+    "revision": "v3.10.0",
+    "upstream": "https://github.com/PaddlePaddle/PaddleOCR"
+  },
+  "files": [
+    {
+      "path": "ch_PP-OCRv5_rec_mobile.onnx",
+      "bytes": 16631306,
+      "sha256": "5825fc7ebf84ae7a412be049820b4d86d77620f204a041697b0494669b1742c5"
+    },
+    {
+      "path": "ppocrv5_dict.txt",
+      "bytes": 74012,
+      "sha256": "d1979e9f794c464c0d2e0b70a7fe14dd978e9dc644c0e71f14158cdf8342af1b"
+    }
+  ]
+}
